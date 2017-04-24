@@ -10,7 +10,7 @@ vue + vue-rotuer + vuex + webpack +axios + mint-ui + ES6 + http-proxy-middleware
 
 # 项目运行
 克隆，或者直接下载
-git clone https://github.com/p919533/elm-
+git clone https://github.com/p919533/elm
 
 
 安装依赖
