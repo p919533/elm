@@ -30,28 +30,28 @@ npm run build
 
 # 目标功能，页面
 |-- 首页
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/home.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/home.png" width="365" height="619"/>
 |
 |-- 食品列表页
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/screen.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/screen01.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/screen02.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/screen03.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/screen.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/screen01.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/screen02.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/screen03.png" width="365" height="619"/>
 |
 |-- 商家详情页
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/shop.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/shop01.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/shop.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/shop01.png" width="365" height="619"/>
 |
 |-- 搜索页
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/search.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/search01.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/search.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/search01.png" width="365" height="619"/>
 |
 |-- 确认订单
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/orderConfirm.png" width="365" height="619"/>
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/orderDetail.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/orderConfirm.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/orderDetail.png" width="365" height="619"/>
 |
 |-- 我的
-|       |--  <img src="https://github.com/p919533/elm/blob/master/psd/profile.png" width="365" height="619"/>
+|       |--  <img src="https://raw.githubusercontent.com/p919533/elm/master/psd/profile.png" width="365" height="619"/>
 
 
 # 项目布局
